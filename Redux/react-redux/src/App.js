@@ -1,11 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { Provider } from "react-redux";
+import CakeContainer from "./componenets/CakeContainer";
+import store  from "./redux/store";
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <Provider store={store}>
+      <div className="App">
+        <CakeContainer />
+      </div>
+    </Provider>
   );
 }
 
