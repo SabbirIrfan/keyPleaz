@@ -2,9 +2,7 @@
 ```markdown
 # React Native Project Build Steps
 
-## General Guidelines
-1. **Talk to others about the problem.**
-2. **Do everything under a ticket.**
+
 
 ## Build Steps
 
