@@ -69,7 +69,9 @@
      cd android
      ./gradlew clean build
      ```
-     - If the build is successful, return to the root directory and run:
+  6. ** MOST IMPORTANTLY "READ THE ERROR/EXCEPTION" PROPERLY**
+      
+   - If the build is successful, return to the root directory and run:
      ```bash
      cd ..
      npm run dev-android
