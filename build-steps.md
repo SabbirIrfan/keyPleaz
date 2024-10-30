@@ -6,8 +6,7 @@
 
 ## Build Steps
 
-1. **Clone the Correct Branch**
-   - Clone the branch that you need for development.
+1. **Clone  and checkout to the Correct Branch*
 
 2. **Install SDKMAN and Set Up `$JAVA_HOME`**
    - Install SDKMAN to manage your Java versions and set up the `$JAVA_HOME` environment variable.
