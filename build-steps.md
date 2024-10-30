@@ -78,4 +78,3 @@
 ## Notes
 - Ensure that all environment variables are correctly set, including `$JAVA_HOME` and Android SDK paths.
 - Keep your Android Studio and SDK tools updated to avoid compatibility issues.
-- Always work under a ticket and communicate any problems encountered with the team.
